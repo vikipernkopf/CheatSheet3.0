@@ -31,7 +31,7 @@ To save your valuable time we want to direct your reading and would recommend th
 - Position The List Item Markers
 - Remove Default Settings
 
-#### Htmls for Tables
+#### HTMLs for Tables
 
 - Defining an HTML Table
 - HTML Table - Cells that Span Many Columns
